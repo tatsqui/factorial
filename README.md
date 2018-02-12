@@ -10,4 +10,5 @@ Compute the factorial of a given input non-negative integer.
 * For example, 3! = 3 * 2 * 1 = 6. 6! = 720.
 * Share and explain the time and space complexities for your solution.
 * If you think of multiple approaches to solve the problem, implement the solution which minimizes space complexity. Explain the other approaches, and your decision in comments above the code.
-**Note**: Do not use Ruby provided functionality.
+
+**Further reading:** Learn more on [Factorial](https://en.wikipedia.org/wiki/Factorial) to be prepared to answer similar questions to the one we did in this exercise.
