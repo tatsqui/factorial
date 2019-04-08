@@ -1,6 +1,6 @@
 # Computes factorial of the input number and returns it
 # Time complexity: On^n
-# Space complexity: ??
+# Space complexity: Constant
 def factorial(number)
   raise ArgumentError, "Bad Value" if number == nil
 
